@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_Coffee_Shop_App.EspressoPage"
+             BackgroundColor="#000000"
+             Title="Espresso">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="1" ColumnSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Cafe Americano" FontSize = "20"  TextColor="#FF0000" Grid.Column="0"/>
+                    <Label Text="$2.50" FontSize = "20"  TextColor="#FF0000" Grid.Column="2"/>
+                </Grid>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="1" ColumnSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Cafe Latte" FontSize = "20"  TextColor="#FF0000" Grid.Column="0"/>
+                    <Label Text="$3.00" FontSize = "20"  TextColor="#FF0000" Grid.Column="2"/>
+                </Grid>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="1" ColumnSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Cappuccino" FontSize = "20"  TextColor="#FF0000" Grid.Column="0"/>
+                    <Label Text="$3.50" FontSize = "20"  TextColor="#FF0000" Grid.Column="2"/>
+                </Grid>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="1" ColumnSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Single Shot" FontSize = "20"  TextColor="#FF0000" Grid.Column="0"/>
+                    <Label Text="$0.75" FontSize = "20"  TextColor="#FF0000" Grid.Column="2"/>
+                </Grid>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="1" ColumnSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Cloud Macchiato" FontSize = "20"  TextColor="#FF0000" Grid.Column="0"/>
+                    <Label Text="$3.50" FontSize = "20"  TextColor="#FF0000" Grid.Column="2"/>
+                </Grid>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="1" ColumnSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Dolce Latte" FontSize = "20"  TextColor="#FF0000" Grid.Column="0"/>
+                    <Label Text="$4.50" FontSize = "20"  TextColor="#FF0000" Grid.Column="2"/>
+                </Grid>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_Coffee_Shop_App.Menupage"
+             BackgroundColor="#000000">
+
+    <ContentPage Title="Menu">
+        <StackLayout>
+            <Frame BackgroundColor="#0000000" VerticalOptions="CenterAndExpand">
+                <Image Source="logo.png" VerticalOptions="Center" HorizontalOptions="Center" />
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Button x:Name="EspB" Text="Espresso"  TextColor="#FF0000" BackgroundColor="Transparent" FontSize="20" Clicked="EspB_Clicked"/>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Button x:Name="HotB" Text="Hot Drinks" TextColor="#FF0000" BackgroundColor="Transparent" FontSize="20" Clicked="HotB_Clicked"/>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Button x:Name="ColdB" Text="Cold Drinks" TextColor="#FF0000" BackgroundColor="Transparent" FontSize="20" Clicked="ColdB_Clicked"/>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Button x:Name="QuiB" Text="Quick Bites" TextColor="#FF0000" BackgroundColor="Transparent" FontSize="20" Clicked="QuiB_Clicked"/>
+            </Frame>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="About" >
+        <StackLayout>
+            <Frame BackgroundColor="#000000"  HorizontalOptions="FillAndExpand">
+                <Image Source="wideshot.jpg" HorizontalOptions="FillAndExpand"/>
+            </Frame>
+            <Frame BackgroundColor="#000000">
+                <Label Text="Jules Cafe" FontSize = "20" FontAttributes="Bold" TextColor="#FF0000"/>
+            </Frame>
+            <Label Text="4A Kent Street &#10; Newmarket &#10; Auckland &#10; 1023 &#10; &#10; +64 9 444 5555 &#10; &#10; info@julescafe.co.nz" TextColor="#FF0000" FontSize="10" />
+            <Frame BackgroundColor="#000000" >
+                <Grid RowSpacing="1" ColumnSpacing="1" BackgroundColor="#000000">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="70"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="10"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Source="facebook_logo.png" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"  Grid.Column="0"/>
+                    <Image Source="instagram_logo.png" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"  Grid.Column="1"/>
+                </Grid>
+            </Frame>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Map" >
+        <WebView Source="https://mobile.here.com/p/h-aHR0cHM6Ly9wbGFjZXMuYXBpLmhlcmUuY29tL3BsYWNlcy92MS9wbGFjZXMvbG9jLWRtVnljMmx2YmoweE8zUnBkR3hsUFRSaEswdGxiblFyVTNRN2JHRnVaejFsYmp0c1lYUTlMVE0yTGpnMk56azFNRFF6T1RRMU16RXlOVHRzYjI0OU1UYzBMamMzTmpjd01qZzRNRGcxT1RNNE8zTjBjbVZsZEQxTFpXNTBLMU4wTzJodmRYTmxQVFJoTzJOcGRIazlRWFZqYTJ4aGJtUTdjRzl6ZEdGc1EyOWtaVDB4TURJek8yTnZkVzUwY25rOVRscE1PMlJwYzNSeWFXTjBQVTVsZDIxaGNtdGxkRHR6ZEdGMFpUMUJkV05yYkdGdVpEdGpiM1Z1ZEhrOVFYVmphMnhoYm1RclEybDBlVHRqWVhSbFoyOXllVWxrUFdKMWFXeGthVzVuTzNOdmRYSmpaVk41YzNSbGJUMXBiblJsY201aGJEdHViR0YwUFMwek5pNDROamd4Tnprek1qRXlPRGt3Tmp0dWJHOXVQVEUzTkM0M056WTJOREU0TkRVM01ETXhNanR3WkhORFlYUmxaMjl5ZVVsa1BUa3dNQzA1TXpBd0xUQXdNREE7Y29udGV4dD1abXh2ZHkxcFpEMDBaREpoWW1FMk1TMWpZV0kyTFRVNE5EUXRZamRrWmkweE5HVXhPV1JsWlRNMFptVmZNVFl6TlRRMU5qTXlNVGszTkY4ek1ERTRYell6TmpNbWNtRnVhejB3P2FwcF9pZD0zS0lRbHMyRFNLbE5XZmRhc3BCOSZhcHBfY29kZT1mMnZEbjFUVVlFVm40a1l0d0szN3l3?msg=4a%20Kent%20St"/>
+    </ContentPage>
+</TabbedPage>

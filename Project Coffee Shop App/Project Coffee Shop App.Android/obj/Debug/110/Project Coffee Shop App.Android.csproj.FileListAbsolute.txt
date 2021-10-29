@@ -1,0 +1,863 @@
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.Android.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.Android.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app.apk
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app.aab
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app-Signed.aab
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app-Signed.apk
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app-Signed.apk.idsig
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\build.props
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\adb.props
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.csprojAssemblyReference.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res.flag
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\45\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\54\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\55\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\62\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\70\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\79\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\87\jl\files.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\R.txt
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\R.cs.flag
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.csproj.CoreCompileInputs.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.csproj.CopyComplete
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\com.companyname.project_coffee_shop_app.apk
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\base.zip
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\com.companyname.project_coffee_shop_app.aab
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\com.companyname.project_coffee_shop_app.apks
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\values\styles.xml
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\values\colors.xml
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\uploadflags.txt
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\resolvedassemblies.hash
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.Android.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.Android.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\build.props
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\adb.props
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.csprojAssemblyReference.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res.flag
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.Android.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.Android.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app.apk
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app.aab
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app-Signed.aab
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app-Signed.apk
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\com.companyname.project_coffee_shop_app-Signed.apk.idsig
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\bin\Debug\Project Coffee Shop App.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\R.txt
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\R.cs.flag
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.csproj.CoreCompileInputs.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\Project Coffee Shop App.Android.csproj.CopyComplete
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\com.companyname.project_coffee_shop_app.apk
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\base.zip
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\com.companyname.project_coffee_shop_app.aab
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\com.companyname.project_coffee_shop_app.apks
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\values\styles.xml
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\values\colors.xml
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\uploadflags.txt
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\resolvedassemblies.hash
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.Android.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.Android.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Project Coffee Shop App.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.arm64-v8a.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.armeabi-v7a.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.x86.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.x86_64.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.armeabi-v7a-shared.inc
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.shared.inc
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\AndroidManifest.xml
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\AndroidManifest.xml
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\__environment__.txt
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\machine.config
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\mono.android.jar
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\static.flag
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\buildid.txt
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.arm64-v8a.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.armeabi-v7a.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.x86.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.x86_64.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\browser\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\core\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\media\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\transition\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643a7374f4901e4095\MainActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\packaged_resources
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\com\companyname\project_coffee_shop_app\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.x86.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.x86_64.s
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.x86.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\typemaps.x86_64.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.arm64-v8a.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.x86.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\environment.x86_64.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.x86.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\compressed_assemblies.x86_64.o
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\app_shared_libraries\x86\libxamarin-app.so
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\app_shared_libraries\x86_64\libxamarin-app.so
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\bin\classes.dex
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\drawable\logo.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\drawable\bagel.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\drawable\cheesypastry.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\drawable\wideshot.jpg
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\drawable\facebook_logo.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\res\drawable\instagram_logo.png
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\46\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\50\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\52\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\56\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\59\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\60\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\77\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\78\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\80\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\81\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\84\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\lp\92\jl\files.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Compat.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.GoogleMaps.Android.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.Forms.GoogleMaps.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.GooglePlayServices.Base.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.GooglePlayServices.Basement.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.GooglePlayServices.Maps.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\androidx\jl\914c5110-1313-4007-a435-c9c55c297cad.jar
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_AndroidXJetifyJavaLibraryRules.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\androidx\proguard\f85ea2ed-f633-4e79-bcf2-a1b76c8acbe2.cfg
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_AndroidXCecilfy.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\com\google\android\gms\base\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\com\google\android\gms\maps\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\com\google\android\gms\R.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6434af9c19aa01b597\GoogleApiClientConnectionCallbacksImpl.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6434af9c19aa01b597\GoogleApiClientOnConnectionFailedListenerImpl.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6440a7cc8802fa6d07\OnMapReadyCallback.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6450e07d0e82e86181\AwaitableResultCallback_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6450e07d0e82e86181\ResultCallback_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc646e4e3ae19170bac3\DroidAsyncTileLayer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc646e4e3ae19170bac3\DroidSyncTileLayer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc646e4e3ae19170bac3\DroidUrlTileLayer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc646e4e3ae19170bac3\MapRenderer.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc6495d4f5d63cc5c882\AwaitableTaskCompleteListener_1.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64d32ffa835eadac0e\DelegateCancelableCallback.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\crc64d32ffa835eadac0e\DelegateSnapshotReadyCallback.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\LocationSource_OnLocationChangedListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaCameraChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_AndroidXJetifyManifest.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\androidx\_AndroidXJetifyManifest.jetify
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App.Android\obj\Debug\110\stamp\_CopyIntermediateAssemblies.stamp

@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNJTLVGyfTy4vTudyaKoXj2kTg2CAlZYbEdf7myIpbZwaSc/maKLlgjZ/WQq1Tpy3ErfKmKhqG7x2a8n8F4MpA==",
+  "success": true,
+  "projectFilePath": "C:\\tecprogramfile\\Project Coffee Shop App\\Project Coffee Shop App\\Project Coffee Shop App.iOS\\Project Coffee Shop App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mattk\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\mattk\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512",
+    "C:\\Users\\mattk\\.nuget\\packages\\xamarin.google.ios.maps\\3.5.0\\xamarin.google.ios.maps.3.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.0 to 1.6.1. Reference the package directly from the project to select a different version. \r\n Project Coffee Shop App.iOS -> Project Coffee Shop App -> Xamarin.Essentials (>= 1.7.0) \r\n Project Coffee Shop App.iOS -> Xamarin.Essentials (>= 1.6.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2196 to 5.0.0.2012. Reference the package directly from the project to select a different version. \r\n Project Coffee Shop App.iOS -> Project Coffee Shop App -> Xamarin.Forms (>= 5.0.0.2196) \r\n Project Coffee Shop App.iOS -> Xamarin.Forms (>= 5.0.0.2012)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

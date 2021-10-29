@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_Coffee_Shop_App.QuickBitesPage"
+             BackgroundColor="#000000"
+             Title="Quick Bites">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="0" ColumnSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="50"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="50"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="50"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Source="bagel.png" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"  Grid.Column="0" Grid.RowSpan="3"/>
+                    <Label Text="Bagel" FontSize = "20" FontAttributes="Bold"  TextColor="#FF0000" Grid.Column="1" Grid.ColumnSpan="3" LineBreakMode="WordWrap" MaxLines="1"/>
+                    <Label Text="Freshly baked each morning" FontSize = "15"  TextColor="#FF0000" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3"/>
+                    <Label Text="$1.50" FontSize = "20"  TextColor="#FF0000" Grid.Column="3" Grid.Row="2"/>
+                </Grid>
+            </Frame>
+            <Frame BackgroundColor="#3C1518">
+                <Grid RowSpacing="0" ColumnSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="50"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="50"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="50"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Source="cheesypastry.png" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"  Grid.Column="0" Grid.RowSpan="3"/>
+                    <Label Text="Eggs Benedict" FontSize = "20" FontAttributes="Bold"  TextColor="#FF0000" Grid.Column="1" Grid.ColumnSpan="3" LineBreakMode="WordWrap" MaxLines="1"/>
+                    <Label Text="Poached eggs over bacon and buttered toasted English muffin, topped with Hallandaise sauce" FontSize = "15"  TextColor="#FF0000" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+                    <Label Text="$6.50" FontSize = "20"  TextColor="#FF0000" Grid.Column="3" Grid.Row="2"/>
+                </Grid>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

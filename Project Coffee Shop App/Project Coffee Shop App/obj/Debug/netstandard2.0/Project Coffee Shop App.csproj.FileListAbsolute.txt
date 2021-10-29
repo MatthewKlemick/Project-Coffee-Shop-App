@@ -1,0 +1,35 @@
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\Project Coffee Shop App.deps.json
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\Project Coffee Shop App.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\ref\Project Coffee Shop App.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\Project Coffee Shop App.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.csprojAssemblyReference.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.AssemblyInfoInputs.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.AssemblyInfo.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.csproj.CoreCompileInputs.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\ref\Project Coffee Shop App.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\EspressoPage.xaml.g.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 2\stageing grond\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Menupage.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\Project Coffee Shop App.deps.json
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\Project Coffee Shop App.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\ref\Project Coffee Shop App.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\bin\Debug\netstandard2.0\Project Coffee Shop App.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.csprojAssemblyReference.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\EspressoPage.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Menupage.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.AssemblyInfoInputs.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.AssemblyInfo.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.csproj.CoreCompileInputs.cache
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\ref\Project Coffee Shop App.dll
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\Project Coffee Shop App.pdb
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\ColdDrinksPage.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\HotDrinksPage.xaml.g.cs
+C:\tecprogramfile\Project Coffee Shop App\Project Coffee Shop App\Project Coffee Shop App\obj\Debug\netstandard2.0\QuickBitesPage.xaml.g.cs
